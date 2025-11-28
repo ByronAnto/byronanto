@@ -1,42 +1,88 @@
-# Portafolio Azure DevOps Engineer
+![Banner Principal](https://via.placeholder.com/1000x300/0078D4/ffffff?text=Byron+Realpe+%7C+Azure+DevOps+Engineer+%26+AI+Specialist)
 
-¡Hola! Soy un ingeniero DevOps especializado en servicios de Azure, dedicado a crear soluciones robustas, automatizadas y seguras para equipos de desarrollo y operaciones.
+# Hola, soy Byron Realpe 👋
+## 🚀 Azure DevOps Engineer | Especialista en Automatización con IA
 
-## 🚀 Sobre Mí
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/byron-realpe-65a836110)
+[![Azure](https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github)](https://github.com/ByronAnto)
 
-Soy un ingeniero con sólida experiencia en automatización y optimización de la entrega de software utilizando Azure DevOps. Me apasiona modernizar procesos, mejorar la eficiencia y promover las mejores prácticas de integración y entrega continua (CI/CD), así como la infraestructura como código y la observabilidad de sistemas en la nube.
+---
 
-## 🛠️ Habilidades Destacadas
+### 💡 Sobre Mí: La Evolución del DevOps
 
-- **Automatización de Azure DevOps:** Diseño, implementación y gestión de pipelines (CI/CD), despliegues automatizados y configuraciones de Release para flujos de trabajo profesionales.
-- **Seguridad:** Implantación de buenas prácticas de seguridad en el ciclo de vida de desarrollo y pipelines de DevOps.
-- **Branching y Control de Código:** Definición de estrategias de branching y control de flujos de trabajo en repositorios.
-- **Base de Datos MSSQL:** Implementación de control de código para bases de datos SQL Server mediante Redgate, Visual Studio Code, herramientas SQL y despliegue de Dacpacs.
-- **AKS (Azure Kubernetes Service):** Despliegue de aplicaciones en clústeres AKS, habilitando observabilidad y autoscalado de cargas de trabajo.
-- **Análisis de Código Estático:** Integración de herramientas para análisis de código y mejora de calidad desde pipelines.
-- **Infraestructura como Código:** Experiencia en ARM, Bicep o Terraform para aprovisionamiento de recursos en Azure.
+<img align="right" width="150" src="https://via.placeholder.com/150?text=Tu+Foto" alt="Byron Realpe Profile">
 
-## 📈 Experiencia Relevante
+Soy un ingeniero DevOps especializado en el ecosistema **Azure**, con un enfoque único: **la integración de Inteligencia Artificial Generativa en los flujos de trabajo de infraestructura**.
 
-- Automatización de despliegues y releases CI/CD en Azure DevOps para múltiples aplicaciones y bases de datos.
-- Configuración de flujos de trabajo seguros y eficientes, combinando buenas prácticas y políticas de gobernanza.
-- Gestión efectiva de código fuente para bases de datos SQL Server usando Redgate y Visual Studio Code.
-- Despliegue de contenedores y microservicios en AKS con monitoreo y escalado automático.
-- Implementación de pipelines de análisis estático para asegurar estándares de calidad en el código.
+No solo construyo pipelines; **optimizo el tiempo de creación de los mismos**. Utilizo ingeniería de prompts avanzada para acelerar el desarrollo de scripts, configuraciones de IaC y soluciones de automatización, logrando reducir drásticamente los tiempos de entrega sin sacrificar la seguridad o la calidad.
 
-## 🧰 Herramientas y Tecnologías
+> *"Mi objetivo no es solo automatizar tareas, sino automatizar la creación de la automatización misma."*
 
-- **Azure DevOps**, **Pipelines**, **Repos**, **Releases**
-- **AKS (Azure Kubernetes Service)**
-- **Terraform** / **Bicep** / **ARM Templates**
-- **Redgate SQL Toolbelt** / **DACPAC** / **SQL Server Management Studio**
-- **Visual Studio Code**
-- **SonarQube**, **SonarCloud**, **Azure Security Center**
-- **Git**, **GitHub**, **GitFlow**
+---
 
-## 🌐 Contacto
+### 🧠 AI-Ops: Ingeniería de Prompts en Acción
+*(Esta sección destaca mi diferencial técnico)*
 
-- [LinkedIn](https://www.linkedin.com/)
-- [GitHub](https://github.com/ByronAnto)
+He desarrollado una metodología de "Prompt Engineering" para DevOps que me permite generar infraestructura como código (IaC) precisa y segura en tiempo récord.
 
+<details>
+<summary>⚡ <b>Haz clic para ver un ejemplo de mi flujo de trabajo</b></summary>
+<br>
 
+**Escenario:** Necesidad urgente de un módulo Bicep para AKS con monitoreo habilitado.
+
+**1. Mi Prompt Técnico (Extracto):**
+> "Actúa como Senior Azure DevOps Engineer. Genera un módulo de Bicep para desplegar un clúster AKS. Requisitos estrictos:
+> - Integración con Azure Monitor y Log Analytics (usando workspace ID existente).
+> - RBAC habilitado con integración de AAD.
+> - Network plugin: Azure CNI.
+> - Output: Resource ID y Principal ID del cluster.
+> - Validar cumplimiento de política CIS Benchmark."
+
+**2. Resultado:**
+Generación de código validado y listo para deploy en **< 5 minutos**, reduciendo el tiempo de desarrollo manual de 2 horas a minutos.
+</details>
+
+---
+
+### 🛠️ Tech Stack & Habilidades
+
+#### ☁️ Cloud & Infraestructura
+![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
+* **IaC:** ARM Templates, Bicep, Terraform.
+* **Contenedores:** Despliegue y escalado en **AKS (Azure Kubernetes Service)**.
+* **Serverless & Compute:** Azure Functions, Web Apps, VM Scale Sets.
+
+#### 🔄 CI/CD & Automatización
+![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D4.svg?style=flat&logo=azure-devops&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+
+* Diseño de Pipelines complejos (YAML/Classic).
+* Estrategias de Branching (GitFlow) y Gobernanza.
+* Release Management automatizado.
+
+#### 🛢️ Bases de Datos & Seguridad
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+
+* **Database DevOps:** Implementación de CI/CD para SQL Server (Redgate, DACPAC).
+* **DevSecOps:** Análisis estático (SonarCloud) y escaneo de vulnerabilidades.
+
+---
+
+### 📈 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **Automatización AKS** | Despliegue Zero-Touch de clústeres Kubernetes con observabilidad integrada. | Azure DevOps, Bicep, Prometheus |
+| **DB Release Pipeline** | Pipeline seguro para migración de esquemas SQL Server en producción. | Redgate, SQL Toolbelt, PowerShell |
+| **AI Prompt Library** | Librería interna de prompts para generación rápida de templates ARM/Terraform. | GPT-4, Python, Git |
+
+---
+
+### 📫 Contacto
+
+Estoy siempre abierto a discutir nuevos retos o compartir conocimientos sobre DevOps e IA.
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/byron-realpe-65a836110)
+* 🐙 [GitHub](https://github.com/ByronAnto)
