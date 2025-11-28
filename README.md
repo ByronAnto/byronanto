@@ -11,7 +11,7 @@
 
 ### 💡 Sobre Mí: La Evolución del DevOps
 
-<img align="right" width="150" src="https://via.placeholder.com/150?text=Tu+Foto" alt="Byron Realpe Profile">
+<img align="right" width="150" src="[https://via.placeholder.com/150?text=Tu+Foto](https://www.linkedin.com/in/byron-realpe-65a836110/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FpaMJSBgRAeSqL7CS2walQ%3D%3D)" alt="Byron Realpe Profile">
 
 Soy un ingeniero DevOps especializado en el ecosistema **Azure**, con un enfoque único: **la integración de Inteligencia Artificial Generativa en los flujos de trabajo de infraestructura**.
 
