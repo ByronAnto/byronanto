@@ -39,8 +39,4 @@ Soy un ingeniero con sólida experiencia en automatización y optimización de l
 - [LinkedIn](https://www.linkedin.com/)
 - [GitHub](https://github.com/ByronAnto)
 
----
 
-¿Te gustaría que adapte/ajuste alguna parte del contenido o que agregue alguna certificación, proyecto específico, o link relevante?
-
-¡Avísame si quieres este archivo listo para subir a tu repositorio o si te creo una estructura inicial de repo con este README!
